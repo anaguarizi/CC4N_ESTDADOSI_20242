@@ -1,4 +1,4 @@
-Grupo 5: Shell Sort - Estudo de Algoritmo e Apresentação (30/10/2024)
+**Grupo 5: Shell Sort** - Estudo de Algoritmo e Apresentação (30/10/2024)
 
 - Ana Clara Guarizi de Souza
   
