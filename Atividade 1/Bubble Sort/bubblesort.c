@@ -10,10 +10,10 @@
 void bubbleSort(int *arr, int size) {
     for (int i = 0; i < size - 1; i++) {
         for (int j = 0; j < size - i - 1; j++) {
-            if (*(arr + j) > *(arr + j + 1)) {
-                int temp = *(arr + j);
-                *(arr + j) = *(arr + j + 1);
-                *(arr + j + 1) = temp;
+            if (arr[j] > arr[j + 1]) {
+                int temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
             }
         }
     }
@@ -22,27 +22,28 @@ void bubbleSort(int *arr, int size) {
 // função pra printar o array
 void printArray(int *arr, int size) {
     for (int i = 0; i < size; i++) {
-        printf("%d ", *(arr + i));
+        printf("%d ", arr[i]);
     }
 }
 
 // função main pra rodar o programa
 int main() {
     int arr[SIZE];
+    int *arrPtr = arr;
     srand(time(NULL));
 
     // preenchendo o vetor com 50 valores
     for (int i = 0; i < SIZE; i++) {
-        *(arr + i) = rand() % 100; // valores aleatórios de 0 a 99
+        arrPtr[i] = rand() % 100; // valores aleatórios de 0 a 99
     }
 
     printf("Vetor original:\n");
-    printArray(arr, SIZE);
+    printArray(arrPtr, SIZE);
 
-    bubbleSort(arr, SIZE);
+    bubbleSort(arrPtr, SIZE);
 
     printf("\n\nVetor após Bubble Sort:\n");
-    printArray(arr, SIZE);
+    printArray(arrPtr, SIZE);
 
     return 0;
 }
