@@ -42,7 +42,7 @@ int main() {
 
     insertionSort(arrPtr, SIZE);
 
-    printf("\n\nVetor ordenado com Insertion Sort:\n");
+    printf("\n\nVetor após Insertion Sort:\n");
     printArray(arrPtr, SIZE);
 
     return 0;
