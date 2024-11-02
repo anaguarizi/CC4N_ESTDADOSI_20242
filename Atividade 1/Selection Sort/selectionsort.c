@@ -44,7 +44,7 @@ int main() {
 
     selectionSort(arrPtr, SIZE);
 
-    printf("\n\nVetor ordenado com Selection Sort:\n");
+    printf("\n\nVetor após Selection Sort:\n");
     printArray(arrPtr, SIZE);
 
     return 0;
