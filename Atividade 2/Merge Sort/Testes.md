@@ -9,3 +9,5 @@
 **"Pior caso":**
 
 ![image](https://github.com/user-attachments/assets/f9066f95-1391-4f12-884a-114b9d716552)
+
+Como é possível analisar pelos testes realizados, o tempo de execução do algoritmo do Merge Sort permanece na mesma média, já que sua complexidade de tempo é a mesma para todos os casos possíveis de ordenação: O(n log n), seguindo sua premissa de dividir e conquistar, mas o comportamento dos dados pode influenciar a eficiência do algoritmo em termos de tempo real de execução, especialmente em implementações práticas.
