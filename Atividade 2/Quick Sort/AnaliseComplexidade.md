@@ -11,4 +11,5 @@
 O Quick Sort é eficiente em termos de espaço, mas isso depende se é implementado de forma recursiva ou iterativa.
 
 **Espaço adicional:** É O(log n) no melhor e caso médio, já que a profundidade da pilha de recursão é proporcional ao log n níveis.
+
 **Pior Caso:** No pior caso, a pilha de recursão pode atingir O(n) chamadas devido à divisão desbalanceada.
