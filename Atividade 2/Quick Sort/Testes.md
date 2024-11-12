@@ -6,7 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/0d05b4dc-61c2-4741-aa33-ee3a7d296341)
 
-**Pior caso:** Aqui é perceptível um aumento drástico no tempo de execução do algoritmo. Foi utilizado um array já ordenado para o teste e resultou em um tempo alto de execução devido a isso.
+**Pior caso:** Aqui é perceptível um aumento drástico no tempo de execução do algoritmo. Foi utilizado um array já ordenado para o teste e resultou em um tempo alto de execução. Isso também pode acontecer com um array que esteja em ordem decrescente.
 
 ![image](https://github.com/user-attachments/assets/a5ab1a97-6567-4d9b-be3b-248daa713e28)
 
