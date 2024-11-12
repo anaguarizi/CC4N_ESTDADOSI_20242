@@ -1,7 +1,6 @@
 **Array aleatório:**
 
-![image](https://github.com/user-attachments/assets/73d403c1-2960-4371-a668-9953efd59afb)
-
+![image](https://github.com/user-attachments/assets/58f8bb65-2487-4f01-bd73-4b12c406e97f)
 
 **Array quase ordenado:**
 
