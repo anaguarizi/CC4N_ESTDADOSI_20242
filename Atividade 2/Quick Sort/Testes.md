@@ -6,3 +6,7 @@
 **Médio caso:**
 
 ![image](https://github.com/user-attachments/assets/0d05b4dc-61c2-4741-aa33-ee3a7d296341)
+
+**Pior caso:**
+
+![image](https://github.com/user-attachments/assets/718abba3-50a3-4b8d-a4c2-b704d375979e)
