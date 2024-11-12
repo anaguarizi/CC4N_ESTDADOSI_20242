@@ -5,4 +5,5 @@
 
 **Array quase ordenado:**
 
-![image](https://github.com/user-attachments/assets/5c484082-9e2f-46b8-81e3-fc9d4df88d0c)
+![image](https://github.com/user-attachments/assets/65cf4123-eda3-4a83-bbc6-9aa045c1110c)
+
